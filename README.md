@@ -34,13 +34,7 @@ A minecraft resourcepack that the general appearance of Minecraft to the theme o
 **Contributed:** NOTHING. (I was just a part of the contributers but development was cut short so i didn't have time to contribute ANYTHING.)
 ## FaQ
 **Q:** Why do you exist?\
-**A:** Idk ask my mother on why she decided to have me.\
-\
-**Q:** How can i contact your mother?\
-**A:** Simple, you dont.\
-\
-**Q:** THEN WHY DID YOU TELL ME TO CONTACT HER IF I CAN'T?\
-**A:** Cuz i tought it would be funny.\
+**A:** Because i do.
 \
 **Q:** Why are you so active on discord?\
 **A:** There is no actual reasoning to this but i have discord open at all times in case anyone desperately needs me.\
