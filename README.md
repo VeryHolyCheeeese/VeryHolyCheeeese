@@ -11,7 +11,6 @@
 ## Social Media
 **Discord:** (I always respond and alarmingly fast) https://discord.gg/e6ucEK2 \
 **Twithc:** (If you require to see me stream please notify me in discord) https://www.twitch.tv/darkcheese_ \
-**Twitter:** (Barely used) https://twitter.com/darkcheese_ \
 **Youtube:** (I sometimes Upload) https://www.youtube.com/channel/UCEEnMHYn_el3tplzVLkgTog
 ## Creations
 ### DarkH overlay
