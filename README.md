@@ -4,6 +4,7 @@
 ## Personal Information
 **Real name:** [Redacted]\
 **Age:** [Redacted]\
+**Nationality:** Finnish\
 **Current Location:** Singapore\
 **Address:** [Redacted]\
 **Timezone:** GMT+8
