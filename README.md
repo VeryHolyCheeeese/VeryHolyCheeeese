@@ -1,6 +1,8 @@
 # VeryHolyCheeseee
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/SirObby/SirObby/main/balance-0%E2%82%AC.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 ## Personal Information
 **Real name:** [Redacted]\
 **Age:** [Redacted]\
