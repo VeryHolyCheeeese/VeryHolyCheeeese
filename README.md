@@ -13,7 +13,7 @@
 ## Social Media
 **Discord:** (I always respond and alarmingly fast) https://discord.gg/D58eTkhMR9 \
 **Discord Username:** DarkCheese_#3655\
-**Twithc:** (If you require to see me stream please notify me in discord) https://www.twitch.tv/darkcheese_ \
+**Twithc:** (If you require to see me stream please notify me in discord) [twitch](https://www.twitch.tv/darkcheese_) \
 **Youtube:** (I sometimes Upload) https://www.youtube.com/channel/UCEEnMHYn_el3tplzVLkgTog
 ## Creations
 ### VaccineSpoof
