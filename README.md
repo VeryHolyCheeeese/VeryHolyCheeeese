@@ -9,7 +9,8 @@
 **Address:** [Redacted]\
 **Timezone:** GMT+8
 ## Social Media
-**Discord:** (I always respond and alarmingly fast) https://discord.gg/e6ucEK2 \
+**Discord:** (I always respond and alarmingly fast) https://discord.gg/D58eTkhMR9 \
+**Discord Username:** DarkCheese_#3655\
 **Twithc:** (If you require to see me stream please notify me in discord) https://www.twitch.tv/darkcheese_ \
 **Youtube:** (I sometimes Upload) https://www.youtube.com/channel/UCEEnMHYn_el3tplzVLkgTog
 ## Creations
@@ -17,7 +18,7 @@
 As it sounds like i made a application that pretty much is a spoof of every vaccine tracker.
 ### DarkH overlay
 DarkH overlay is a Resourcepack that changes the appearance of certain aspects of a Minecraft server called Hypixel.
-### Interactive Stream
+### Interactive Stream (No longer worked on)
 Interactive stream is currently in its VERY early stages\
 The Interactive Stream is a stream currently being worked on using Unreal Engine 5.\
 In the interactive stream, viewers are able to use channel points and chat to interact with the stream.\
