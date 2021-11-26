@@ -27,8 +27,6 @@ In the interactive stream, viewers are able to use channel points and chat to in
 VeryHolyCheeeese is part of Team Interactive.
 ### AutoBoop
 Autoboop Is a minecraft modification that runs the command /boop [Friend's name] when a [Friend] logins to the minecraft server Minecraft.
-### DrHaydenMod
-A minecraft modification that pretty much spams the following line clientside, "The longer the icon of sin is on earth the stronger it will become."
 ## Contributions
 ### D++
 A C++ Discord library that is made by the holy BrainBox.
