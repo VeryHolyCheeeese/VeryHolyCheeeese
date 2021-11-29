@@ -27,16 +27,10 @@ In the interactive stream, viewers are able to use channel points and chat to in
 VeryHolyCheeeese is part of Team Interactive.
 ### AutoBoop
 Autoboop Is a minecraft modification that runs the command /boop [Friend's name] when a [Friend] logins to the minecraft server Minecraft.
-## Contributions
-### D++
-A C++ Discord library that is made by the holy BrainBox.
-Contributed: The ReadMe File.
-### A Bouncing Seal Bot
-A Discord Bot about ***SEALS***.
-Contributed: The ReadMe File.
-### Forumer Pack
-A minecraft resourcepack that the general appearance of Minecraft to the theme of The hypixel forums.\
-**Contributed:** NOTHING. (I was just a part of the contributers but development was cut short so i didn't have time to contribute ANYTHING.)
+
+### Development Setup
+A clearer picture can be requested \
+![Development Setup](IMG_20211129_170314.jpg)
 ## FaQ
 **Q:** Why do you exist?\
 **A:** Because i do.\
@@ -53,5 +47,3 @@ A minecraft resourcepack that the general appearance of Minecraft to the theme o
 **Q:** REEE?\
 **A:** REEE
 
-### Development Setup
-![Development Setup](IMG_20211129_170314.jpg)
