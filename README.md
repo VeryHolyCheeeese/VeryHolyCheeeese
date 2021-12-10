@@ -31,8 +31,15 @@ VeryHolyCheeeese is part of Team Interactive.
 Autoboop Is a minecraft modification that runs the command /boop [Friend's name] when a [Friend] logins to the minecraft server Minecraft.
 
 ### Development Setup
-A clearer picture can be requested \
+A clearer picture can be requested in the discord.\
 ![Development Setup](IMG_20211129_170314.jpg)
+### Peripherals
+Keyboard: Razer ornata chroma \
+Mouse: Razer basilisk ultimate \
+Headset: Razer blackshark v2 special edition \
+Microphone: Seiren mini \
+Computer: Hp pavilion. (More information can be requested go to discord.)
+
 ## FaQ
 **Q:** Why do you exist?\
 **A:** Because i do.\
