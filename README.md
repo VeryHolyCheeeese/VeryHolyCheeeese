@@ -18,8 +18,11 @@
 ## Creations
 ### VaccineSpoof
 As it sounds like i made a application that pretty much is a spoof of every vaccine tracker.
-###TicTacToeButCheesy
+### TicTacToeButCheesy
 Its Tic Tac Toe but the computer works every time.
+### BadShapeCalculator
+Someone requested i make a shape calculator for children, It is to calculate parameter and area. \
+Its never too early for children to learn how to download Visual Studio code, Cmake, and how to compile and run a c++ project.
 ### DarkH overlay
 DarkH overlay is a Resourcepack that changes the appearance of certain aspects of a Minecraft server called Hypixel.
 ### Interactive Stream (No longer worked on)
