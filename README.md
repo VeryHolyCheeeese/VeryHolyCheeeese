@@ -35,7 +35,7 @@ Autoboop Is a minecraft modification that runs the command /boop [Friend's name]
 
 ### Development Setup
 A clearer picture can be requested in the discord.\
-![Development Setup](IMG_20211129_170314.jpg)
+![Development Setup](IMG20211210194002.jpg)
 ### Peripherals
 Keyboard: Razer ornata chroma \
 Mouse: Razer basilisk ultimate \
