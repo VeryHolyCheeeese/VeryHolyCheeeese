@@ -38,7 +38,7 @@ A clearer picture can be requested in the discord.\
 **Keyboard:** Razer ornata chroma \
 **Mouse:** Razer basilisk ultimate \
 **Headset:** Razer blackshark v2 special edition \
-**Microphone:** Seiren mini \
+**Microphone:** Razer Seiren mini \
 **Computer:** Hp pavilion. (More information can be requested go to discord.)
 
 ## **FaQ**
