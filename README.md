@@ -13,7 +13,7 @@
 **Discord Username:** DarkCheese_#3655\
 [Twitch](https://www.twitch.tv/darkcheese_) (I don't stream)\
 [Youtube](https://www.youtube.com/channel/UCEEnMHYn_el3tplzVLkgTog) (I sometimes upload)\
-[MyWebsite](cheese-is-cool.tech) (my cool website)
+[MyWebsite](https://cheese-is-cool.tech) (my cool website)
 ## **Creations**
 ### **Cheese-is-cool.tech**
 My website.\
