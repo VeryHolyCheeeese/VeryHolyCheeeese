@@ -46,28 +46,6 @@ A clearer picture can be requested in the discord.\
 **Microphone:** Razer Seiren mini \
 **Computer:** Hp pavilion. (More information can be requested go to discord.)
 
-## **Neofetch**
-<pre><font color="#A347BA"><b>         -/oyddmdhs+:.</b></font>                <font color="#A347BA"><b>cheese</b></font>@<font color="#A347BA"><b>compuuter</b></font> 
-<font color="#A347BA"><b>     -o</b></font><b>dNMMMMMMMMNNmhy+</b><font color="#A347BA"><b>-`</b></font>             ---------------- 
-<font color="#A347BA"><b>   -y</b></font><b>NMMMMMMMMMMMNNNmmdhy</b><font color="#A347BA"><b>+-</b></font>           <font color="#A347BA"><b>OS</b></font>: Gentoo/Linux x86_64 
-<font color="#A347BA"><b> `o</b></font><b>mMMMMMMMMMMMMNmdmmmmddhhy</b><font color="#A347BA"><b>/`</b></font>        <font color="#A347BA"><b>Host</b></font>: HP Pavilion Gaming Laptop 15-ec0xxx 
-<font color="#A347BA"><b> om</b></font><b>MMMMMMMMMMMN</b><font color="#A347BA"><b>hhyyyo</b></font><b>hmdddhhhd</b><font color="#A347BA"><b>o`</b></font>      <font color="#A347BA"><b>Kernel</b></font>: 5.15.11-gentoo-x86_64 
-<font color="#A347BA"><b>.y</b></font><b>dMMMMMMMMMMd</b><font color="#A347BA"><b>hs++so/s</b></font><b>mdddhhhhdm</b><font color="#A347BA"><b>+`</b></font>    <font color="#A347BA"><b>Uptime</b></font>: ALOT
-<font color="#A347BA"><b> oy</b></font><b>hdmNMMMMMMMN</b><font color="#A347BA"><b>dyooy</b></font><b>dmddddhhhhyhN</b><font color="#A347BA"><b>d.</b></font>   <font color="#A347BA"><b>Packages</b></font>: 1032 (emerge) 
-<font color="#A347BA"><b>  :o</b></font><b>yhhdNNMMMMMMMNNNmmdddhhhhhyym</b><font color="#A347BA"><b>Mh</b></font>   <font color="#A347BA"><b>Shell</b></font>: bash 5.1.8 
-<font color="#A347BA"><b>    .:</b></font><b>+sydNMMMMMNNNmmmdddhhhhhhmM</b><font color="#A347BA"><b>my</b></font>   <font color="#A347BA"><b>Resolution</b></font>: 1920x1080 
-<font color="#A347BA"><b>       /m</b></font><b>MMMMMMNNNmmmdddhhhhhmMNh</b><font color="#A347BA"><b>s:</b></font>   <font color="#A347BA"><b>DE</b></font>: GNOME 40.4 
-<font color="#A347BA"><b>    `o</b></font><b>NMMMMMMMNNNmmmddddhhdmMNhs</b><font color="#A347BA"><b>+`</b></font>    <font color="#A347BA"><b>WM</b></font>: Mutter 
-<font color="#A347BA"><b>  `s</b></font><b>NMMMMMMMMNNNmmmdddddmNMmhs</b><font color="#A347BA"><b>/.</b></font>      <font color="#A347BA"><b>WM Theme</b></font>: Adwaita 
-<font color="#A347BA"><b> /N</b></font><b>MMMMMMMMNNNNmmmdddmNMNdso</b><font color="#A347BA"><b>:`</b></font>        <font color="#A347BA"><b>Theme</b></font>: Adwaita-dark [GTK2/3] 
-<font color="#A347BA"><b>+M</b></font><b>MMMMMMNNNNNmmmmdmNMNdso</b><font color="#A347BA"><b>/-</b></font>           <font color="#A347BA"><b>Icons</b></font>: Adwaita [GTK2/3] 
-<font color="#A347BA"><b>yM</b></font><b>MNNNNNNNmmmmmNNMmhs+/</b><font color="#A347BA"><b>-`</b></font>             <font color="#A347BA"><b>Terminal</b></font>: gnome-terminal 
-<font color="#A347BA"><b>/h</b></font><b>MMNNNNNNNNMNdhs++/</b><font color="#A347BA"><b>-`</b></font>                <font color="#A347BA"><b>CPU</b></font>: AMD Ryzen 7 3750H with Radeon Vega M 
-<font color="#A347BA"><b>`/</b></font><b>ohdmmddhys+++/:</b><font color="#A347BA"><b>.`</b></font>                   <font color="#A347BA"><b>GPU</b></font>: AMD ATI 05:00.0 Picasso 
-<font color="#A347BA"><b>  `-//////:--.</b></font>                        <font color="#A347BA"><b>GPU</b></font>: NVIDIA GeForce GTX 1660 Ti Mobile 
-                                      <font color="#A347BA"><b>Memory</b></font>: 3194MiB / 13925MiB 
-</pre>
-
 
 ## **FaQ**
 **Q:** Why do you exist?\
