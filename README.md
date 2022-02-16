@@ -38,7 +38,8 @@ Autoboop Is a minecraft modification that runs the command /boop [Friend's name]
 
 ## **Development Setup**
 A clearer picture can be requested in the discord.\
-![Development Setup](IMG20211210194002.jpg)
+![Development Setup](IMG20220215183356.jpg)
+Yes that is a signal extender right next to my computer (this managed to negate ALL packet loss i was experiencing before i moved it here.)\
 ## **Peripherals**
 **Keyboard:** Razer ornata chroma \
 **Mouse:** Razer basilisk ultimate \
