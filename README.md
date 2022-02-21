@@ -11,7 +11,7 @@
 ## **Social Media**
 [Discord](https://discord.gg/D58eTkhMR9) (I always respond and alarmingly fast)\
 **Discord Username:** DarkCheese_#3655\
-[Twitch](https://www.twitch.tv/darkcheese_) (I stream alot, Notification is going to be in discord when i stream)\
+[Twitch](https://www.twitch.tv/darkcheese_) (I stream alot, Notification is going to be on discord when i stream)\
 [Youtube](https://www.youtube.com/channel/UCEEnMHYn_el3tplzVLkgTog) (I sometimes upload)\
 [MyWebsite](https://cheese-is-cool.tech) (my cool website)
 ## **Creations**
