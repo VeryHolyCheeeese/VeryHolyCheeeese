@@ -19,10 +19,8 @@
 My website.\
 i stg it doesn't have a ip grabber. \
 But it does have my cool neofetch.
-### **VaccineSpoof**
-As it sounds like i made a application that pretty much is a spoof of every vaccine tracker.
-### **TicTacToeButCheesy**
-Its Tic Tac Toe but the computer works every time.
+### **Susmod**
+Im developing susmod for minecraft 1.19 along with other developers
 ### **BadShapeCalculator**
 Someone requested i make a shape calculator for children, It is to calculate parameter and area. \
 Its never too early for children to learn how to download Visual Studio code, Cmake, and how to compile and run a c++ project.
